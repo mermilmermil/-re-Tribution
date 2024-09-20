@@ -30,10 +30,11 @@ h1 {
 
 }
 
-h2, h3 {
+h2 {
 	font-family: "Roboto", sans-serif;
 	font-weight: 700;
 	color: #ff66b2;
+	font-size: 40px;
 }
 
 #title-desc {
@@ -146,6 +147,7 @@ ul {
 
 li {
 	margin: 10px 0;
+	font-size: 25px;
 }
 
 /* footer */
@@ -153,9 +155,10 @@ li {
 footer {
 	font-family: 'Lucida Sans', sans-serif;
 	font-size: 14px;
+	text-align: center;
 }
 
 #footer-copyright {
 	font-size: 10px;
-	text-align: left;
+	text-align: center;
 }
