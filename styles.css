@@ -113,7 +113,7 @@ iframe {
 .tooltip .tooltiptext {
 	position: absolute;
 	visibility: hidden;
-	width: 120px;
+	width: 100%;
 	background-color: black;
 	color: white;
 	text-align: center;
@@ -127,6 +127,10 @@ iframe {
 
 .tooltip:hover .tooltiptext {
 	visibility: visible;
+}
+
+#wheretofind {
+	display: flex;
 }
 
 a {
