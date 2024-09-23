@@ -2,8 +2,9 @@ html {
 	
 	box-sizing: border-box;
 	font-family: "Cute Font", sans-serif;
-	background-image: url(https://www.suppliesforcandles.co.uk/69-medium_default/pink-glitter.jpg);
-	background: linear-gradient(135deg, #ffccff, #ff99cc);
+	background-image: url(https://cdn.create.vista.com/api/media/small/582536640/stock-video-golden-glitter-pink-background-holiday-design-girly-background-concept?videoStaticPreview=true&token=);
+	/* background: linear-gradient(135deg, #ffccff, #ff99cc); */
+	/* background-color: rgba(255, 153, 204, 0.); */
 }
 
 * {
@@ -26,14 +27,14 @@ body {
 
 h1 {
 	font-size: 75px;
-	color: #ff66b2;
+	color: #df4897;
 
 }
 
 h2 {
 	font-family: "Roboto", sans-serif;
 	font-weight: 700;
-	color: #ff66b2;
+	color: #df4897;
 	font-size: 40px;
 }
 
@@ -131,6 +132,7 @@ iframe {
 
 #wheretofind {
 	display: flex;
+	flex-direction: column;
 }
 
 a {
